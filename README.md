@@ -1,2 +1,0 @@
-# hello
-just another repository
